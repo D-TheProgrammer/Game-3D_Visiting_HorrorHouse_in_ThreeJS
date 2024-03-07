@@ -25,7 +25,7 @@ Attention : il est possible que le programme rencontre rarement des bugs si votr
 
 > [!NOTE]
 > [lien pour lancer le jeu en **ligne** ] : 
-> https://d-theprogrammer.github.io/Game-AirSoccer_in_Js-Html_with_AI/
+> https://d-theprogrammer.github.io/Game-3D_Visiting_HorrorHouse_in_ThreeJS/
 
 > [!TIP] 
 > il faut lancer un serveur Web **local** dans le répertoire contenant le fichier index.html à l’aide de la commande suivante :
@@ -60,7 +60,7 @@ Attention: It is possible that the program may encounter rare bugs if your compu
 
 > [!NOTE]
 > [link to start the game **online** ] : 
-> https://d-theprogrammer.github.io/Game-AirSoccer_in_Js-Html_with_AI/
+> https://d-theprogrammer.github.io/Game-3D_Visiting_HorrorHouse_in_ThreeJS/
 
 > [!TIP] 
 > you must launch a **local** Web server in the directory containing the index.html file using the following command:
