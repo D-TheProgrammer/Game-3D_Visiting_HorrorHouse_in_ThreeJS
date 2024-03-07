@@ -82,22 +82,22 @@ Attention: It is possible that the program may encounter rare bugs if your compu
 	<img width="817" alt="image" src="https://github.com/D-TheProgrammer/Game-Visiting_HorrorHouse_in_ThreeJS/assets/151149998/ced606d8-b0ba-421f-8df6-52c0ca75c506">
 </div>
 
-## [3] : Utilisation de la lumière : on voit que la porte est sélectionnée en vert, donc on peut interagir avec elle, sinon elle ne serait pas verte / Use of light: we can see that the door is selected in green, so we can interact with it, otherwise it wouldn't be green
+### [3] : Utilisation de la lumière : on voit que la porte est sélectionnée en vert, donc on peut interagir avec elle, sinon elle ne serait pas verte / Use of light: we can see that the door is selected in green, so we can interact with it, otherwise it wouldn't be green
 <div align="center">
 	<img width="703" alt="image" src="https://github.com/D-TheProgrammer/Game-Visiting_HorrorHouse_in_ThreeJS/assets/151149998/b80c0310-6eec-4596-8c95-5fa8ed96ff42">
 </div>
 
-## [4]: Déplacement du personnage et ouverture/interaction avec la porte. / Character movement and opening/interaction with the door
+### [4]: Déplacement du personnage et ouverture/interaction avec la porte. / Character movement and opening/interaction with the door
 <div align="center">
 	<img width="831" alt="image" src="https://github.com/D-TheProgrammer/Game-Visiting_HorrorHouse_in_ThreeJS/assets/151149998/f40616a9-3000-4e4a-91bd-353654d03dff">
 </div>
 
-## [4] : Interieur de la maison  / Choose the image to decrypt
+### [4] : Interieur de la maison  / Choose the image to decrypt
 <div align="center">
 	<img width="850" alt="image" src="https://github.com/D-TheProgrammer/Game-Visiting_HorrorHouse_in_ThreeJS/assets/151149998/a0919f38-9753-42b7-b07f-ca1700c7b58a">
 </div>
 
-## [5] Il y a des collisions et des interactions avec des objets  / There are collisions and interactions with objects
+### [5] Il y a des collisions et des interactions avec des objets  / There are collisions and interactions with objects
 <div align="center">
   <img width="772" alt="image" src="https://github.com/D-TheProgrammer/Game-Visiting_HorrorHouse_in_ThreeJS/assets/151149998/455e1eed-a3b4-479d-bde8-c7ebbd5b4958">
    <img width="331" alt="image" src="https://github.com/D-TheProgrammer/Game-Visiting_HorrorHouse_in_ThreeJS/assets/151149998/d22bcda4-e514-430d-bb0c-6dd4adfb5698">
