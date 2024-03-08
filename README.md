@@ -42,12 +42,12 @@ Project in ThreeJS
 
 This project is a game that offers a virtual tour of a room, created SOLELY IN THREEJS (imported from a .js file, therefore without external installation), without any other library (everything has been done manually). The player, represented, can move using the following keys:
 
-Z: Forward
-D: Camera rotation to the Right
-S: Backward
-Q: Camera rotation to the Left
-P: Tilt head / Look Up
-M: Tilt head / Look Down
+Z: Forward  
+D: Camera rotation to the Right    
+S: Backward  
+Q: Camera rotation to the Left  
+P: Tilt head / Look Up  
+M: Tilt head / Look Down  
 
 Moreover, it is possible to interact with objects by pressing the "O" button when an object is selected (it turns green), which will perform a modification on the object.
 
