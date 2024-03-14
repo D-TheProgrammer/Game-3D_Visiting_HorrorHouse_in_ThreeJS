@@ -1,7 +1,11 @@
 # Game-3D_Visiting_HorrorHouse_in_ThreeJS
 [French] Projet permettant de se déplacer en 3D dans une maison modélisée en Three JS sans aucune autre bibliothèque   
-[English] Project allowing 3D movement within a house modeled in Three JS without any other library  
+[English] Project allowing 3D movement within a house modeled in Three JS without any other library   
 
+### SOMMAIRE / SUMMARY
+- Présentation en francais / Presentation in French
+- Présentation en anglais / Presentation in English
+- Tuoriel dans les deux langues / Tutorial in both languages
 
 ### __[FRANCAIS]__ 
 Projet en ThreeJS
