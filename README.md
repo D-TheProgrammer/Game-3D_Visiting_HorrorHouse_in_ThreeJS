@@ -13,16 +13,16 @@ Projet en ThreeJS
 
 Ce projet est un jeu qui propose une visite virtuelle d'une salle, réalisée UNIQUEMENT EN THREE JS (importée depuis un fichier .js, donc sans installation externe), sans aucune autre bibliothèque (tout a été fait à la main). Le joueur, représenté peut se déplacer à l'aide des touches suivantes :
 
-- Z : Avancer  
-- D : Rotation de la caméra vers la Droite  
-- S : Reculer  
-- Q : Rotation de la caméra vers la Gauche  
-- P : Pencher la tête / Regarder vers le Haut  
-- M : Pencher la tête / Regarder vers le Bas   
+- **Z** : Avancer  
+- **D** : Rotation de la caméra vers la Droite  
+- **S** : Reculer  
+- **Q** : Rotation de la caméra vers la Gauche  
+- **P** : Pencher la tête / Regarder vers le Haut  
+- **M** : Pencher la tête / Regarder vers le Bas   
 
-De plus, il est possible d'interagir avec les objets en appuyant sur le bouton "O" lorsqu'un objet est sélectionné (il devient vert), ce qui effectuera une modification sur l'objet.
+De plus, il est possible d'interagir avec les objets en appuyant sur le bouton **"O"** lorsqu'un objet est sélectionné (il devient **vert**), ce qui effectuera une modification sur l'objet.
 
-Enfin, appuyer sur "L" allume et éteint la lampe torche.
+Enfin, appuyer sur **"L"** allume et éteint la **lampe torche**.
 
 (Il y a des collisions sur chaque objet de la scène, bien évidemment.)
 
@@ -47,16 +47,16 @@ Project in ThreeJS
 
 This project is a game that offers a virtual tour of a room, created SOLELY IN THREEJS (imported from a .js file, therefore without external installation), without any other library (everything has been done manually). The player, represented, can move using the following keys:
 
-- Z: Forward  
-- D: Camera rotation to the Right    
-- S: Backward  
-- Q: Camera rotation to the Left  
-- P: Tilt head / Look Up  
-- M: Tilt head / Look Down  
+- **Z**: Forward  
+- **D**: Camera rotation to the Right    
+- **S**: Backward  
+- **Q**: Camera rotation to the Left  
+- **P**: Tilt head / Look Up  
+- **M**: Tilt head / Look Down  
 
-Moreover, it is possible to interact with objects by pressing the "O" button when an object is selected (it turns green), which will perform a modification on the object.
+Moreover, it is possible to interact with objects by pressing the **"O"** button when an object is selected (it turns **green**), which will perform a modification on the object.
 
-Finally, pressing "L" turns the flashlight on and off.
+Finally, pressing **"L"** turns the **flashlight** on and off.
 
 (There are collisions on each object in the scene, obviously.)
 
