@@ -2,10 +2,11 @@
 [French] Projet permettant de se déplacer en 3D dans une maison modélisée en Three JS sans aucune autre bibliothèque   
 [English] Project allowing 3D movement within a house modeled in Three JS without any other library   
 
-### SOMMAIRE / SUMMARY
-- Présentation en francais / Presentation in French
-- Présentation en anglais / Presentation in English
-- Tuoriel dans les deux langues / Tutorial in both languages
+
+#### SOMMAIRE / SUMMARY
+- [Présentation en francais / Presentation in French](#francais)
+- [Présentation en anglais / Presentation in English](#english)
+- [Tutoriel dans les deux langues / Tutorial in both languages](#démo-et-tutoriel--demo-and-tutorial)
 
 ### __[FRANCAIS]__ 
 Projet en ThreeJS
