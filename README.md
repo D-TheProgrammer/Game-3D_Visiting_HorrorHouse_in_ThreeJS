@@ -2,6 +2,12 @@
 [French] Projet permettant de se déplacer en 3D dans une maison modélisée en Three JS sans aucune autre bibliothèque   
 [English] Project allowing 3D movement within a house modeled in Three JS without any other library   
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-3D-red)
+![Game](https://img.shields.io/badge/Game-Horror-purple)
+![Status](https://img.shields.io/badge/Status-Playable-success)
+
 
 #### SOMMAIRE / SUMMARY
 - [Présentation en francais / Presentation in French](#francais)
